@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c"
+    },
+    "code-runner.executorMap": {
+        "c": "cd $dir && gcc -o $fileNameWithoutExt $fileName $dir/fileHandler.c && $dir$fileNameWithoutExt"
+    }
+}
